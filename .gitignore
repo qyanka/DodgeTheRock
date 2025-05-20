@@ -11,6 +11,15 @@ Saved/
 .vscode/
 .vs/
 
+# Local and potentially sensitive configs
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultDeviceProfiles.ini
+Config/Android/
+Config/IOS/
+
+
+
 # Ignore auto-generated project files
 *.opensdf
 *.sdf
